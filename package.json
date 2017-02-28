@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+
+  "scripts": {
+    "start" : "node lib/server.js",
+    "test"  : " ./node_modules/mocha/bin/mocha test/hw_2"
+  }
+}
